@@ -1,0 +1,13 @@
+{
+  "name": "CryptoAudit Demo Repository",
+  "version": "1.0",
+  "purpose": "Controlled multi-file demonstration repository",
+  "rules": [
+    "CR1",
+    "CR2",
+    "CR3",
+    "CR4",
+    "CR5"
+  ],
+  "production_use": false
+}
